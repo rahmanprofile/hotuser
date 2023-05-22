@@ -1,0 +1,8 @@
+Complete user interface design name
+
+1. SignIn
+2. SignUp
+3. Favourite
+4. Forgot password
+5. Profile
+6. Business
